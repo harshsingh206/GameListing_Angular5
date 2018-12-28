@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  api : 'https://testapi.io/api/knayan2005/games'
+  api : ''
 };
